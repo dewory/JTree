@@ -2,6 +2,8 @@
 
 ## JTree的扩展
 
+### 新疆师范大学 软件工程21-6班 刁旺睿
+
 1.熟练使用JTree创建树型结构来显示数据
 ![](https://github.com/sk8diao/JTree/blob/master/screenshots/1.png)
 ![](https://github.com/sk8diao/JTree/blob/master/screenshots/2.png)
